@@ -1,2 +1,7 @@
 pkg
 bin
+src/github.com
+src/golang.org
+src/sourcegraph.com
+src/course_plus
+src/courseplus-back-end

@@ -1,0 +1,17 @@
+配置环境变量go gopath
+src 下面
+go get github.com/go-sql-driver/mysql mysql驱动封装
+go get github.com/astaxie/beego orm工具
+go get github.com/beego/bee 热部署工具
+go get github.com/astaxie/session session 管理工具
+
+go install 生成可执行文件及其依赖
+
+go run 不会生成可执行文件也不会生成依赖包（感觉是临时生成在内存）
+
+在main包下运行 bee run 
+
+
+go get github.com/astaxie/beego
+go get github.com/beego/bee
+go get github.com/go-sql-driver/mysql

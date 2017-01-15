@@ -1,0 +1,27 @@
+{
+    
+    "files.autoSave": "onFocusChange",
+    
+    "go.buildOnSave": true,
+    
+    "go.lintOnSave": true,
+    
+    "go.vetOnSave": true,
+    
+    "go.buildFlags": [],
+    
+    "go.lintFlags": [],
+    
+    "go.vetFlags": [],
+    
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    
+    "go.formatOnSave": true,
+    
+    "go.formatTool": "gofmt",
+   
+    "go.goroot": "E:\\Go",
+    
+    "go.gopath": "F:\\go_workspace\\go_learning"
+
+}
